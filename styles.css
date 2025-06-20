@@ -97,13 +97,14 @@ button {
     gap: 36px;
     width: 45%;
     padding-left: 500px;
+    padding-bottom: 46px;
 }
 
-.images > img {
-    height: 25%;
-    width: 25%;
+.images > .image img {
+    height: 65%;
+    width: 90%;
     border-radius: 8px;
-    border: #3882f6;
+    border: 3px solid #3882f6;
 }
 
 .image-text {
@@ -137,7 +138,7 @@ p {
 
 .author {
     align-self: end;
-    padding-right: 428px;
+    padding-right: 468px;
     font-weight: 900;
 }
 
